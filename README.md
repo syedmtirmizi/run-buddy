@@ -1,6 +1,14 @@
-# run-buddy.github.io
+# Run Buddy
 
-This github is to showcase my website development skills.
+## Purpose
+A website that offers fitness training services.
 
-Runbuddy is a finctional website for customers looking for personal trainers. 
+## Built With
+* HTML
+* CSS
 
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
